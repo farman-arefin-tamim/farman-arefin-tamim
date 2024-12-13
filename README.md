@@ -14,7 +14,7 @@
 
 - 🤝 I’m looking for help with **DevOps, Full-Stack Developement, Competitive Programming**
 
-- 👨‍💻 All of my projects are available at [https://github.com/farman-arefin-outlook)
+- 👨‍💻 All of my projects are available at [https://github.com/farman-arefin-outlook](https://github.com/farman-arefin-outlook)
 
 - 📝 I regularly write articles on [https://www.tamim-cse360.tech/](https://www.tamim-cse360.tech/)
 
