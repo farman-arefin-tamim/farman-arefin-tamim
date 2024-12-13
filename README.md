@@ -16,7 +16,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/farman-arefin-outlook](https://github.com/farman-arefin-outlook)
 
-- 📝 I regularly write articles on [https://www.tamim-cse360.tech/](https://www.tamim-cse360.tech/)
+- 📝 I regularly write articles on [https://tamim-cse360.blogspot.com/](https://tamim-cse360.blogspot.com/)
 
 - 💬 Ask me about **Programming, Development,Operating Systems, Networking**
 
