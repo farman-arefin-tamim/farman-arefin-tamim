@@ -17,7 +17,7 @@
 
 ## 🚀 About Me
 
-- 🔭 Currently working on **DevOps Projects, Full Stack Development, STEM Projects & Competitive Programming**
+- 🔭 Currently working on **DevOps Projects, Full Stack Development, STEM Projects & Problem Solving**
 - 🌱 Currently learning **AWS, Jenkins, GitHub Actions, Next.js, Advanced DSA**
 - 👯 Looking to collaborate on **Cloud / DevOps / Web Projects**
 - 🤝 Looking for help with **DevOps & Scalable Full Stack Systems**
